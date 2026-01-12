@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "documentation-8b74e"
-  }
+    "default": "documentation-8b74e",
+    "stagin": "documentation-8b74e-6e62b"
+  },
+  "targets": {},
+  "etags": {}
 }
