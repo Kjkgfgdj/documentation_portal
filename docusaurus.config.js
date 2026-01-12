@@ -2,7 +2,7 @@ module.exports = {
   title: 'I just deployed this site to firebase with Buddy!',
   tagline: 'How cool is that?!',
   url: 'https://tomekpapiernik.github.io',
-  baseUrl: '/documentation_portal/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
